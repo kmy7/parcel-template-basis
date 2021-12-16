@@ -1,5 +1,5 @@
 # parcel template
-parcel template use method
+parcel template
 
 ## install dependencies
 npm install
